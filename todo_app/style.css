@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    font-family: "Nunito", serif;
+    background-color: #fafafa;
+    padding-top: 50px;
+
+}
+
+.container {
+    max-width: 550px;
+    margin: auto;
+    background-color: #fff;
+    -webkit-box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+    box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+}
